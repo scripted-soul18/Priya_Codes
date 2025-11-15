@@ -12,8 +12,8 @@
 ## 🌸 About Me
 
 - 💻 Passionate about **Python & DataScience,Machine Learning,Maths**
-- 🌱 Currently learning **HTML, CSS, Git & GitHub**
-- 🚀 Dreaming to become a strong **Developer**
+- 🌱 Currently learning **C++,Java,python librabries**
+- 🚀 Dreaming to become a **Datascientist**
 - ✨ I love building small projects and improving daily
 
 ---
