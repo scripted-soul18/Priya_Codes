@@ -48,7 +48,7 @@
 
 ## 📫 Connect With Me
 
-📧 **Email:** gorepriya721@gmail.com  
+📧 **Email:** buglessbeauty369@gmail.com 
 🌍 **Portfolio (coming soon!)**
 
 ---
