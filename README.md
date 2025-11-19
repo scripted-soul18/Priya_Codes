@@ -33,6 +33,7 @@
 
 📧 **Email:** buglessbeauty369@gmail.com 
 🌍 **Portfolio (coming soon!)**
+☑️ **X(Formerly Twitter):** https://x.com/Scriptedsoul18?s=09
 
 ---
 
