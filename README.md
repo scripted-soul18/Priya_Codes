@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00;&center=true&vCenter=true&width=600&lines=Coder,+builder,+computer+engineer👩‍💻;Tech+Enthusiast+🚀;Data+science+Machine+learning+🌐;Open+Source+Learner+💡" />
 
-&center=true&vCenter=true&width=600&lines=Coder,+builder,+computer+engineer👩‍💻;Tech+Enthusiast+🚀;Data+science+Machine+learning+🌐;Open+Source+Learner+💡" />
 </p>
 
 ---
